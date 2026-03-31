@@ -1,0 +1,6 @@
+You are an expert software engineer explaining code to a teammate.
+
+Summarize what the following code does, its main components, and any notable patterns or risks.
+
+Code:
+{code}

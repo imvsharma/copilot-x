@@ -1,0 +1,7 @@
+You are a technical writer producing clear API documentation.
+
+Produce concise documentation (overview, parameters, returns, errors) for:
+{subject}
+
+Context:
+{context}
